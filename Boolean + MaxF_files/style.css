@@ -1,0 +1,105 @@
+
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+background-size: cover;
+background-image:url(https://i2.wp.com/escooter.blog/wp-content/uploads/2020/11/lime-tour-app.jpg?fit=2048%2C1365&ssl=1);
+height: 100%
+}
+
+.container{
+background: black;
+background-color: black;
+opacity: 0.5;
+margin:50px;
+border-radius: 10px;
+padding: 400px;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 400px;
+}
+
+.logo  {
+position: absolute;
+top: 130px;
+width: 220px;
+left: 210px;
+opacity: 0.8;
+}
+
+h1  {
+position: absolute;
+text-align: center;
+padding-bottom: 430px;
+font-family: monospace;
+color:#00FF00;
+}
+
+.linea  {
+position: absolute;
+padding-bottom: 350px;
+width: 1000px;
+}
+
+
+
+.button  {
+position: absolute;
+display:inline-block;
+padding-bottom: 350px;
+color: white;
+}
+
+
+.first  {
+position: absolute;
+display: inline-block;
+padding-bottom: 200px;
+padding-left: 100px;
+}
+
+.checkbox{
+  position: absolute;
+  padding-left: 200px;
+
+}
+
+
+.power  {
+position: absolute;
+max-width: 1000px;
+border-radius: 10px;
+overflow: hidden;
+width: 330px;
+top: 435px;
+left: 258px;
+}
+
+.power2 {
+  position: absolute;
+  max-width: 1000px;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 450px;
+  top: 585px;
+  left: 258px;
+}
+
+.power3 {
+  position: absolute;
+  max-width: 1000px;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 450px;
+  top: 735px;
+  left: 258px;
+  width: 150px;
+}
+
+footer {
+position: absolute;
+bottom: 1px;
+right: 550px;
+}
